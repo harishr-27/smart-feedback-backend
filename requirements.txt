@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+motor
+beanie
+# pymupdf
+# unstructured
+passlib[bcrypt]
+bcrypt==4.0.1
+python-jose[cryptography]
+email-validator
+openai
